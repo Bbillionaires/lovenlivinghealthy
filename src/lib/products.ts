@@ -20,7 +20,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% organic turmeric root (Curcuma longa)"],
     priceCents: 2400,
     sizeLabel: "8 oz pouch",
-    accent: "from-amber-400 to-orange-600",
+    accent: "from-fuchsia-500 to-rose-700",
     badge: "Bestseller",
   },
   {
@@ -36,7 +36,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Organic ashwagandha root (Withania somnifera)"],
     priceCents: 2800,
     sizeLabel: "60 capsules",
-    accent: "from-purple-400 to-indigo-600",
+    accent: "from-purple-500 to-violet-800",
   },
   {
     id: "prod_matcha",
@@ -51,7 +51,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% ceremonial grade green tea (Camellia sinensis)"],
     priceCents: 3200,
     sizeLabel: "30g tin",
-    accent: "from-emerald-400 to-green-700",
+    accent: "from-emerald-500 to-green-700",
     badge: "New",
   },
   {
@@ -67,7 +67,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Wildcrafted elderberries", "Raw honey", "Ginger root", "Clove"],
     priceCents: 2600,
     sizeLabel: "8 fl oz bottle",
-    accent: "from-fuchsia-500 to-purple-800",
+    accent: "from-rose-500 to-fuchsia-800",
   },
   {
     id: "prod_moringa",
@@ -82,7 +82,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% organic moringa leaf (Moringa oleifera)"],
     priceCents: 2200,
     sizeLabel: "6 oz pouch",
-    accent: "from-lime-400 to-green-600",
+    accent: "from-lime-500 to-emerald-700",
   },
   {
     id: "prod_reishi",
@@ -97,7 +97,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Aged reishi mushroom dual extract (Ganoderma lucidum)"],
     priceCents: 3400,
     sizeLabel: "2 fl oz dropper",
-    accent: "from-red-500 to-rose-800",
+    accent: "from-fuchsia-600 to-purple-900",
   },
   {
     id: "prod_chamomile",
@@ -112,7 +112,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Whole dried chamomile flowers (Matricaria chamomilla)"],
     priceCents: 1800,
     sizeLabel: "3.5 oz loose leaf tin",
-    accent: "from-yellow-300 to-amber-500",
+    accent: "from-pink-400 to-rose-600",
   },
   {
     id: "prod_frankincense",
@@ -127,7 +127,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% pure frankincense essential oil (Boswellia sacra)"],
     priceCents: 3800,
     sizeLabel: "15 mL bottle",
-    accent: "from-orange-300 to-amber-700",
+    accent: "from-orange-400 to-rose-800",
   },
   {
     id: "prod_spirulina",
@@ -142,7 +142,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% organic spirulina (Arthrospira platensis)"],
     priceCents: 2900,
     sizeLabel: "7 oz pouch",
-    accent: "from-teal-400 to-cyan-700",
+    accent: "from-blue-500 to-indigo-700",
   },
   {
     id: "prod_eucalyptus",
@@ -157,7 +157,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["100% pure eucalyptus essential oil (Eucalyptus globulus)"],
     priceCents: 1900,
     sizeLabel: "15 mL bottle",
-    accent: "from-sky-400 to-blue-700",
+    accent: "from-sky-500 to-blue-800",
   },
   {
     id: "prod_hibiscus",
@@ -172,7 +172,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Whole dried hibiscus flowers (Hibiscus sabdariffa)"],
     priceCents: 1700,
     sizeLabel: "4 oz loose leaf tin",
-    accent: "from-rose-400 to-red-700",
+    accent: "from-rose-500 to-pink-800",
   },
   {
     id: "prod_bundle_immunity",
@@ -187,7 +187,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Wildcrafted elderberry syrup", "Dried ginger root chips", "Sun-dried hibiscus flowers"],
     priceCents: 5400,
     sizeLabel: "3-piece bundle",
-    accent: "from-red-400 to-orange-600",
+    accent: "from-rose-500 to-fuchsia-800",
     badge: "Bundle & Save",
   },
   {
@@ -203,7 +203,7 @@ export const PRODUCTS: Product[] = [
     ingredients: ["Ashwagandha root capsules", "Reishi mushroom dual extract", "Whole chamomile flower tea"],
     priceCents: 6200,
     sizeLabel: "3-piece bundle",
-    accent: "from-indigo-400 to-purple-800",
+    accent: "from-indigo-500 to-purple-900",
     badge: "Bundle & Save",
   },
   {
